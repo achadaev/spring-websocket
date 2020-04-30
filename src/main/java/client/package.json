@@ -23,7 +23,7 @@
     "@ng-bootstrap/ng-bootstrap": "^6.0.0",
     "core-js": "^3.6.4",
     "es5-shim": "^4.5.13",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "net": "^1.0.2",
     "rxjs": "~6.5.4",
     "shim": "^0.6.0",
